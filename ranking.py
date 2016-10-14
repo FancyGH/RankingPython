@@ -4,6 +4,10 @@
 import sys,os
 import requests
 
+"""
+API接口函数
+"""
+
 def get_repo_stars(repo):
     """
     某个项目的star数
